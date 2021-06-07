@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 <!--
 **fernandakawasaki/fernandakawasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Science undergrad at UFPR. My main interests are technology and Data Science, though I like to learn different things such as history, physics and biology. As a result, I'm keen on multidisciplinary projects.
+- 🔭 I’m currently working on some Data Science/Data Analysis projects and you can check them on my Github. For now, I'm using them to practice, so they might be a little basic, but feel free to propose changes. Suggestions are always welcome too :)
+- 🌱 I’m currently learning Excel and German.
+- 👯 I’m looking to collaborate on anything I can! My Python skills are pretty solid, and I'm always willing to learn new languages/technologies!
+- 📫 You can reach me at my LinkedIn profile clicking [here](https://www.linkedin.com/in/fernandakawasaki/).
